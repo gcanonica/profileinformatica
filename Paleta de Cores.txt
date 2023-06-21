@@ -1,0 +1,3 @@
+#1786F9 - Azul Escuro
+#00FEFB - Azul Claro
+#FFFFFF - Branco
